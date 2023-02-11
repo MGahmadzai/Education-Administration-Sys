@@ -9,7 +9,7 @@
 	<frame id="left" src="leftcol.html" />
 	<frameset rows="10%,90%">
 		<frame id="toprow" src="toprow.html"/>
-		<frame id="bottomRow" src="bottomRow.html">
+		<frame id="bottomRow" src="bottomRow.php">
 	</frameset>
 
 </frameset>
